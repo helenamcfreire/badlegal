@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6273f97-cfea-44cd-aa35-036df6140e3e" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\app\assets\javascripts\bowser.min.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application-c7d4bfd2889467dd20d22deed1644879.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application-c7d4bfd2889467dd20d22deed1644879.js.gz" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application-8ec88a6de1ff33851f2c109de89486c3.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application-8ec88a6de1ff33851f2c109de89486c3.js.gz" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application-d67350f29aafcfb542d3618316c36f62.css" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application-d67350f29aafcfb542d3618316c36f62.css.gz" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application.css" afterPath="" />
@@ -62,16 +61,18 @@
       <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\slide2.png" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\slide3-9ec814d4d4279f07b4a89621581e000b.png" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\slide3.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/banzhow.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/banzhow.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/plugins.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/badlegal.iml" afterPath="$PROJECT_DIR$/.idea/badlegal.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/jquery-1.10.2.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery-1.10.2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="badlegal.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/database.yml" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392956085524" ignored="false" />
     <file path="/routes.rb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392959752903" ignored="false" />
     <file path="/home_controller.rb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392961014102" ignored="false" />
-    <file path="/Dummy.txt" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392992005526" ignored="false" />
+    <file path="/Dummy.txt" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392999374225" ignored="false" />
     <file path="/_header.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392962337072" ignored="false" />
     <file path="/a.dummy" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392998159863" ignored="false" />
     <file path="$PROJECT_DIR$/../nails/app/views/nails/_beauty.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392956828570" ignored="false" />
@@ -93,6 +94,7 @@
     <file path="$PROJECT_DIR$/../curtivendi-partner/app/assets/javascripts/limits/application.js" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392988244800" ignored="false" />
     <file path="$PROJECT_DIR$/../../CloneProjects/levarme_landing/app/assets/javascripts/application.js" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392993097428" ignored="false" />
     <file path="/plugins.js" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392997538991" ignored="false" />
+    <file path="$PROJECT_DIR$/log/production.log" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392998244232" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,22 +135,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/app/views/home/pro_cubango.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/home/sacada_pro_futuro.html.erb" />
         <option value="$PROJECT_DIR$/app/views/home/jurujuba.html.erb" />
         <option value="$PROJECT_DIR$/app/views/home/caio_martins.html.erb" />
         <option value="$PROJECT_DIR$/app/views/home/fotos.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_header.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/config/application.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/public/assets/application-3e01e4c87be9087278abdcd5ecb94335.js" />
         <option value="$PROJECT_DIR$/app/views/home/contato.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/plugins.js" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/banzhow.js" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/jquery-1.10.2.js" />
+        <option value="$PROJECT_DIR$/public/assets/application.js" />
+        <option value="$PROJECT_DIR$/public/assets/application-8ec88a6de1ff33851f2c109de89486c3.js" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
       </list>
     </option>
   </component>
@@ -239,60 +241,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="badlegal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="badlegal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="badlegal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="badlegal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="badlegal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="badlegal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javascripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -671,23 +619,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="7" selection-start="508" selection-end="524" vertical-scroll-proportion="0.34004474">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="16" selection-start="573" selection-end="573" vertical-scroll-proportion="0.2147651">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="33" selection-start="64" selection-end="64" vertical-scroll-proportion="0.07364787">
           <folding />
         </state>
       </provider>
@@ -715,12 +649,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="18" selection-start="650" selection-end="650" vertical-scroll-proportion="0.28635347">
+        <state line="8" column="20" selection-start="444" selection-end="444" vertical-scroll-proportion="0.14317673">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/jquery-1.10.2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="8" selection-start="854" selection-end="876" vertical-scroll-proportion="0.12712826">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="18" selection-start="549" selection-end="549" vertical-scroll-proportion="0.393736">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="33" selection-start="64" selection-end="64" vertical-scroll-proportion="0.07364787">
+          <folding />
         </state>
       </provider>
     </entry>
