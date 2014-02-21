@@ -12,6 +12,7 @@
 //
 //= jquery-1.10.2
 //= bootstrap
+//= bowser.min
 //= plugins
 //= banzhow
 //= require_tree .
