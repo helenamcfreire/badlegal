@@ -14,6 +14,12 @@
 //= require jquery_ujs
 //= jquery-1.10.2
 //= bootstrap
+//= bootstrap-hover-dropdown.min
+//= jquery.parallax-1.1.3
+//= jquery.placeholder
+//= jquery.touchSwipe.min
+//= respond
+//= scrolltopcontrol
 //= plugins
 //= banzhow
 //= require_tree .

@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6273f97-cfea-44cd-aa35-036df6140e3e" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application-8ec88a6de1ff33851f2c109de89486c3.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application-8ec88a6de1ff33851f2c109de89486c3.js.gz" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/bootstrap-hover-dropdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery.parallax-1.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery.placeholder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery.touchSwipe.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/respond.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/scrolltopcontrol.js" />
+      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application-5c2a01ee08a5280d527ce739fe5d5702.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application-5c2a01ee08a5280d527ce739fe5d5702.js.gz" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application-d67350f29aafcfb542d3618316c36f62.css" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application-d67350f29aafcfb542d3618316c36f62.css.gz" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application.css" afterPath="" />
@@ -28,6 +34,8 @@
       <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\client-5.png" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\client-6-9f358e0a31dc57bf960097267c8381ea.png" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\client-6.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\jquery.min-388372ef65cc311f6a3df4a6ceac8d22.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\jquery.min.map" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\manifest.yml" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\monster-80d4b3c5f8d32b5f27b0c148f8fc1528.png" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\monster.png" afterPath="" />
@@ -61,11 +69,7 @@
       <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\slide2.png" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\slide3-9ec814d4d4279f07b4a89621581e000b.png" afterPath="" />
       <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\slide3.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/badlegal.iml" afterPath="$PROJECT_DIR$/.idea/badlegal.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/jquery-1.10.2.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery-1.10.2.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="badlegal.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -94,7 +98,7 @@
     <file path="$PROJECT_DIR$/../curtivendi-partner/app/assets/javascripts/limits/application.js" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392988244800" ignored="false" />
     <file path="$PROJECT_DIR$/../../CloneProjects/levarme_landing/app/assets/javascripts/application.js" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392993097428" ignored="false" />
     <file path="/plugins.js" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392997538991" ignored="false" />
-    <file path="$PROJECT_DIR$/log/production.log" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392998244232" ignored="false" />
+    <file path="$PROJECT_DIR$/log/production.log" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392999759699" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +117,17 @@
     <favorites_list name="badlegal" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="application.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="20" selection-start="790" selection-end="790" vertical-scroll-proportion="0.37583894">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -241,6 +255,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="badlegal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="badlegal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -536,7 +564,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934782" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -544,7 +572,7 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3173913" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30469584" sideWeight="0.6826087" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30469584" sideWeight="0.6826087" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934782" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -656,13 +684,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="20" selection-start="444" selection-end="444" vertical-scroll-proportion="0.14317673">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/jquery-1.10.2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="8" selection-start="854" selection-end="876" vertical-scroll-proportion="0.12712826">
@@ -682,6 +703,29 @@
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="33" selection-start="64" selection-end="64" vertical-scroll-proportion="0.07364787">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/bootstrap-hover-dropdown.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/respond.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="20" selection-start="790" selection-end="790" vertical-scroll-proportion="0.37583894">
           <folding />
         </state>
       </provider>
