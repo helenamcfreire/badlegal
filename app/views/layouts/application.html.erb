@@ -9,34 +9,23 @@
   <title>Bad Legal</title>
 
   <!-- font-awesome -->
-  <link href="/assets/font-awesome.min.css" rel="stylesheet">
+  <%= stylesheet_link_tag    'font-awesome.min', :media => 'all' %>
   <!--[if lt IE 9]>
   <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-  <!--[if IE 7]>
-  <link href="/assets/font-awesome-ie7.css" rel="stylesheet">
-  <![endif]-->
 
   <!-- Bootstrap core CSS -->
-  <link href="/assets/bootstrap.css" rel="stylesheet">
+  <%= stylesheet_link_tag    'bootstrap', :media => 'all' %>
 
   <!-- custom CSS -->
-  <link href="/assets/style.css" rel="stylesheet">
-  <!--[if lte IE 8]>
-  <link href="/assets/ie8.css" rel="stylesheet">
-  <![endif]-->
-  <!--[if lte IE 7]>
-  <link href="/assets/ie7.css" rel="stylesheet">
-  <![endif]-->
+  <%= stylesheet_link_tag    'style', :media => 'all' %>
 
   <!-- JavaScript -->
-  <script type="text/javascript" src="/assets/jquery-1.10.2.js"></script>
-  <script type="text/javascript" src="/assets/bootstrap.js"></script>
-  <script type="text/javascript" src="/assets/plugins.js"></script>
-  <!--[if lte IE 7]>
-  <script type="text/javascript" src="/assets/boxsizing/jquery.boxsizing.js"></script>
-  <![endif]-->
-  <script type="text/javascript" src="/assets/banzhow.js"></script>
+  <%= javascript_include_tag 'jquery-1.10.2' %>
+  <%= javascript_include_tag 'bootstrap' %>
+  <%= javascript_include_tag 'plugins' %>
+  <%= javascript_include_tag 'jquery.boxsizing' %>
+  <%= javascript_include_tag 'banzhow' %>
 
 </head>
 <body>
