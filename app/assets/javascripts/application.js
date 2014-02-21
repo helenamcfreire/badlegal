@@ -14,4 +14,3 @@
 //= bootstrap
 //= plugins
 //= banzhow
-//= require_tree .
