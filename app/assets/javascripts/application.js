@@ -12,11 +12,6 @@
 //
 //= jquery-1.10.2
 //= bootstrap
-//= bootstrap-hover-dropdown.min
-//= jquery.parallax-1.1.3
-//= jquery.placeholder
-//= scrolltopcontrol
-//= respond
 //= plugins
 //= banzhow
 //= require_tree .
