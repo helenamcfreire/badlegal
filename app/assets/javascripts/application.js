@@ -12,4 +12,3 @@
 //= require plugins
 //= require respond
 //= require scrolltopcontrol
-//= require_tree .
