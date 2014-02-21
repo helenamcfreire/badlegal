@@ -13,13 +13,10 @@
 //= jquery-1.10.2
 //= bootstrap
 //= bootstrap-hover-dropdown.min
-//= bowser.min
-//= device.min
 //= jquery.parallax-1.1.3
 //= jquery.placeholder
-//= jquery.touchSwipe.min
-//= plugins
-//= respond
-//= banzhow
 //= scrolltopcontrol
+//= respond
+//= plugins
+//= banzhow
 //= require_tree .
