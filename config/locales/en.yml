@@ -1,0 +1,17 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  hello: "Hello world"
+  menu:
+    quem_somos: "Quem Somos"
+    fotos: "Fotos"
+    parcerias: "Parcerias"
+    contato: "Contato"
+    noticias: "Notícias"
+    pro_cubango: "Pró Cubango"
+    jurujuba: "Jurujuba Iate Clube"
+    caio_martins: "Caio Martins"
+    sacada_pro_futuro: "Sacada Pró Futuro"
+    home: "Home"
+    bad_legal: "Bad Legal"

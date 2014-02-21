@@ -1,0 +1,69 @@
+<nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+
+      <%= link_to t('menu.bad_legal'), root_path, :class => 'navbar-brand' %>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse navbar-ex1-collapse">
+      <ul class="nav navbar-nav navbar-right">
+        <li class="active">
+          <%= link_to t('menu.home'), root_path %>
+        </li>
+        <li>
+          <%= link_to t('menu.quem_somos'), bad_quem_somos_path %>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Projetos <i class="fa fa-angle-down"></i></a>
+          <ul class="dropdown-menu">
+            <li>
+              <%= link_to t('menu.pro_cubango'), bad_pro_cubango_path %>
+            </li>
+            <li>
+              <%= link_to t('menu.jurujuba'), bad_jurujuba_path %>
+            </li>
+            <li>
+              <%= link_to t('menu.caio_martins'), bad_caio_martins_path %>
+            </li>
+            <li>
+              <%= link_to t('menu.sacada_pro_futuro'), bad_sacada_pro_futuro_path %>
+            </li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Multimídia <i class="fa fa-angle-down"></i></a>
+          <ul class="dropdown-menu">
+            <li>
+              <%= link_to t('menu.fotos'), bad_fotos_path %>
+            </li>
+            <li><a href="#">Vídeos</a></li>
+          </ul>
+        </li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">Acontecimentos <i class="fa fa-angle-down"></i></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Eventos</a></li>
+            <li><a href="#">Cursos</a></li>
+            <li>
+              <%= link_to t('menu.noticias'), bad_noticias_path %>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <%= link_to t('menu.parcerias'), bad_parcerias_path %>
+        </li>
+        <li><a href="#">Colabore</a></li>
+        <li>
+          <%= link_to t('menu.contato'), bad_contato_path %>
+        </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container -->
+</nav>
