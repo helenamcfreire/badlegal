@@ -1,7 +1,10 @@
 /*
+ *
+ *= require_self
+ *= require_tree .
  *= require bootstrap
  *= require bootstrap-ie7
- *= require font-awesome
+ *= require font-awesome.min
  *= require font-awesome-ie7
  *= require ie7
  *= require ie8
