@@ -8,6 +8,7 @@ Badlegal::Application.routes.draw do
   match '/bad/caio_martins', :to => 'home#caio_martins', :as => 'bad_caio_martins'
   match '/bad/sacada_pro_futuro', :to => 'home#sacada_pro_futuro', :as => 'bad_sacada_pro_futuro'
   match '/bad/fotos', :to => 'home#fotos', :as => 'bad_fotos'
+  match '/bad/eventos', :to => 'home#eventos', :as => 'bad_eventos'
   match '/bad/noticias', :to => 'home#noticias', :as => 'bad_noticias'
   match '/bad/parcerias', :to => 'home#parcerias', :as => 'bad_parcerias'
   match '/bad/contato', :to => 'home#contato', :as => 'bad_contato'

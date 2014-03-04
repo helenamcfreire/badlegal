@@ -2,103 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6273f97-cfea-44cd-aa35-036df6140e3e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/bootstrap-hover-dropdown.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery.parallax-1.1.3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery.placeholder.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/jquery.touchSwipe.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/respond.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/scrolltopcontrol.js" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application-5c2a01ee08a5280d527ce739fe5d5702.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application-5c2a01ee08a5280d527ce739fe5d5702.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application-d67350f29aafcfb542d3618316c36f62.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application-d67350f29aafcfb542d3618316c36f62.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application.css" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application.css.gz" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application.js" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\application.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\badlegal1-80166b94ff9d0f55b00b6feaac175500.JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\badlegal1.JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\badlegal2-66a0bb53c58628119df83e430c1a16cf.JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\badlegal2.JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\badlegal3-799f16650eef3803e9850aab70b98f6e.JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\badlegal3.JPG" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\client-1-2c7db26b4f0f62c419e1e47f0c7395a7.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\client-1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\client-2-a5e4eb102c21053403a249475257b448.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\client-2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\client-3-32479813bb6ab2ebc6448744310f7560.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\client-3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\client-4-6073a14db0b80b2529ea3d34e53c3dfb.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\client-4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\client-5-bff3230fddab4280d88d7f25c712c27f.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\client-5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\client-6-9f358e0a31dc57bf960097267c8381ea.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\client-6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\jquery.min-388372ef65cc311f6a3df4a6ceac8d22.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\manifest.yml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\monster-80d4b3c5f8d32b5f27b0c148f8fc1528.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\monster.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\monster_bk-8e464cd2c6be9277b49ca4ed419c05e0.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\monster_bk.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\portfolio_1-5f5b6eb394e1d6222da773035129bd0c.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\portfolio_1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\portfolio_2-1a1249339a4bd38e6229cd842c9a4268.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\portfolio_2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\portfolio_3-1e141db878bd37d6178392970a8bdefe.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\portfolio_3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\portfolio_4-1b88820140804366f657a7ec3668aae7.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\portfolio_4.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\portfolio_5-ca8d28e51de5d07e3803806971f1a6e6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\portfolio_5.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\portfolio_6-811f25fb63fe94ce84dc1d46b8495c04.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\portfolio_6.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\post1-915c854f997fb6c8f453d6d4a8f8e945.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\post1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\post2-39cb70d3be23ba9f3477bdc0c962c3bd.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\post2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\post3-7d2dca99e5de20d9be457a4d05a607ec.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\post3.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\rails-a3386665c05a2d82f711a4aaa72d247c.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\rails.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\section-bg-cf9c87543563b624e9689b5a6ba66e27.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\section-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\slide1-11569eadaa395617e4915e6aab379f36.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\slide1.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\slide2-fe53a459291806db96b2ce59ee6575ec.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\slide2.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\slide3-9ec814d4d4279f07b4a89621581e000b.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Helena\Projetos\Ruby\badlegal\public\assets\slide3.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/caio_martins.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/jurujuba.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/sesc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/home/eventos.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.generators" afterPath="$PROJECT_DIR$/.idea/.generators" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_header.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_header.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/badlegal.iml" afterPath="$PROJECT_DIR$/.idea/badlegal.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/home/caio_martins.html.erb" afterPath="$PROJECT_DIR$/app/views/home/caio_martins.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/home/contato.html.erb" afterPath="$PROJECT_DIR$/app/views/home/contato.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/locales/en.yml" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/home_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/home_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/home/jurujuba.html.erb" afterPath="$PROJECT_DIR$/app/views/home/jurujuba.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/home/parcerias.html.erb" afterPath="$PROJECT_DIR$/app/views/home/parcerias.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/home/pro_cubango.html.erb" afterPath="$PROJECT_DIR$/app/views/home/pro_cubango.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/home/quem_somos.html.erb" afterPath="$PROJECT_DIR$/app/views/home/quem_somos.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/home/sacada_pro_futuro.html.erb" afterPath="$PROJECT_DIR$/app/views/home/sacada_pro_futuro.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="badlegal.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/database.yml" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392956085524" ignored="false" />
-    <file path="/routes.rb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392959752903" ignored="false" />
-    <file path="/home_controller.rb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392961014102" ignored="false" />
-    <file path="/Dummy.txt" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392999374225" ignored="false" />
-    <file path="/_header.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392962337072" ignored="false" />
+    <file path="/routes.rb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1393910423964" ignored="false" />
+    <file path="/home_controller.rb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1393910442215" ignored="false" />
+    <file path="/Dummy.txt" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1393910402918" ignored="false" />
+    <file path="/_header.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1393910467095" ignored="false" />
     <file path="/a.dummy" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392998159863" ignored="false" />
     <file path="$PROJECT_DIR$/../nails/app/views/nails/_beauty.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392956828570" ignored="false" />
     <file path="/_beauty.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392956824101" ignored="false" />
     <file path="/index.html.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392958288599" ignored="false" />
     <file path="/application.html.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392989932326" ignored="false" />
-    <file path="/temp.yml" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392961510120" ignored="false" />
-    <file path="$PROJECT_DIR$/config/locales/en.yml" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392961510120" ignored="false" />
-    <file path="/parcerias.html.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392959389305" ignored="false" />
+    <file path="/temp.yml" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1393910402918" ignored="false" />
+    <file path="/parcerias.html.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1393911280571" ignored="false" />
     <file path="/noticias.html.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392959717915" ignored="false" />
-    <file path="/pro_cubango.html.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392961650854" ignored="false" />
-    <file path="/sacada_pro_futuro.html.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392961706891" ignored="false" />
-    <file path="/jurujuba.html.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392961733478" ignored="false" />
-    <file path="/caio_martins.html.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392961765855" ignored="false" />
+    <file path="/pro_cubango.html.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1393909655062" ignored="false" />
+    <file path="/sacada_pro_futuro.html.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1393909785312" ignored="false" />
+    <file path="/jurujuba.html.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1393909728873" ignored="false" />
+    <file path="/caio_martins.html.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1393909755072" ignored="false" />
     <file path="/fotos.html.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392961815823" ignored="false" />
-    <file path="/contato.html.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392961939050" ignored="false" />
+    <file path="/contato.html.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1393912097376" ignored="false" />
     <file path="/application.css" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392986599075" ignored="false" />
     <file path="/application.js" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392991846228" ignored="false" />
     <file path="$PROJECT_DIR$/../curtivendi-partner/app/assets/javascripts/limits/application.js" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392988244800" ignored="false" />
     <file path="$PROJECT_DIR$/../../CloneProjects/levarme_landing/app/assets/javascripts/application.js" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392993097428" ignored="false" />
     <file path="/plugins.js" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392997538991" ignored="false" />
-    <file path="$PROJECT_DIR$/log/production.log" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1392999759699" ignored="false" />
+    <file path="$PROJECT_DIR$/../curtivendi/Gemfile.lock" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1393909327801" ignored="false" />
+    <file path="/eventos.html.erb" changelist="c6273f97-cfea-44cd-aa35-036df6140e3e" time="1393910366707" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,11 +71,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="application.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
+      <file leaf-file-name="parcerias.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/home/parcerias.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="20" selection-start="790" selection-end="790" vertical-scroll-proportion="0.37583894">
+            <state line="29" column="20" selection-start="628" selection-end="628" vertical-scroll-proportion="-4.04">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contato.html.erb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/home/contato.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="88" column="52" selection-start="3252" selection-end="3252" vertical-scroll-proportion="0.79746836">
+              <folding>
+                <marker date="1393912097575" expanded="false" signature="615:633" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -149,22 +113,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/home/jurujuba.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/home/caio_martins.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/home/fotos.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/_header.erb" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/config/application.rb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
-        <option value="$PROJECT_DIR$/public/assets/application-3e01e4c87be9087278abdcd5ecb94335.js" />
-        <option value="$PROJECT_DIR$/app/views/home/contato.html.erb" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/plugins.js" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/banzhow.js" />
-        <option value="$PROJECT_DIR$/app/assets/javascripts/jquery-1.10.2.js" />
         <option value="$PROJECT_DIR$/public/assets/application.js" />
         <option value="$PROJECT_DIR$/public/assets/application-8ec88a6de1ff33851f2c109de89486c3.js" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/application.js" />
+        <option value="$PROJECT_DIR$/Gemfile.lock" />
+        <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/app/views/home/pro_cubango.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/home/jurujuba.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/home/caio_martins.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/home/sacada_pro_futuro.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/home/quem_somos.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/home/eventos.html.erb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/home_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/layouts/_header.erb" />
+        <option value="$PROJECT_DIR$/app/views/home/parcerias.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/home/contato.html.erb" />
       </list>
     </option>
   </component>
@@ -207,7 +171,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -236,7 +199,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -250,7 +217,43 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="badlegal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="badlegal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="badlegal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="badlegal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -269,6 +272,14 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -320,6 +331,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -328,15 +340,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="RailsGeneratorsPopup.hiddenIncluded" value="false" />
     <property name="org.jetbrains.plugins.ruby.i18n.inspection.quickfixes.I18nCreatePropertyDialog" value="en.yml" />
-    <property name="Ruby.ViewRefParam.DefaultExtension" value="html.erb" />
     <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="Ruby.ViewRefParam.DefaultExtension" value="html.erb" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Helena\Projetos\Ruby\badlegal\app\assets\images" />
+      <recent name="C:\Users\Helena\Projetos\Ruby\badlegal\app\views\home" />
       <recent name="C:\Users\Helena\Projetos\Ruby\badlegal\app\assets\javascripts" />
       <recent name="C:\Users\Helena\Projetos\Ruby\badlegal\app\assets\stylesheets" />
       <recent name="C:\Users\Helena\Projetos\Ruby\badlegal\app\views\layouts" />
-      <recent name="C:\Users\Helena\Projetos\Ruby\badlegal\app\assets\images" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Helena\Projetos\Ruby\badlegal\app\assets\javascripts" />
@@ -436,7 +449,7 @@
     </configuration>
     <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
       <JSRemoteDebuggerConfigurationSettings>
-        <option name="engineId" />
+        <option name="engineId" value="embedded" />
         <option name="fileUrl" />
       </JSRemoteDebuggerConfigurationSettings>
       <method />
@@ -566,24 +579,24 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934782" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3173913" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30469584" sideWeight="0.6826087" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30843115" sideWeight="0.67065215" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934782" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934782" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3173913" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -647,86 +660,115 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="16" selection-start="573" selection-end="573" vertical-scroll-proportion="0.2147651">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/home/contato.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="9" selection-start="1151" selection-end="1151" vertical-scroll-proportion="0.6628308">
-          <folding>
-            <marker date="1392997469242" expanded="false" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/plugins.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="631" column="53" selection-start="26943" selection-end="26943" vertical-scroll-proportion="0.24177071">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/banzhow.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="44" selection-start="1373" selection-end="1373" vertical-scroll-proportion="0.7673378">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/home/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/jquery-1.10.2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="8" selection-start="854" selection-end="876" vertical-scroll-proportion="0.12712826">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="18" selection-start="549" selection-end="549" vertical-scroll-proportion="0.393736">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="33" selection-start="64" selection-end="64" vertical-scroll-proportion="0.07364787">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/javascripts/bootstrap-hover-dropdown.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/respond.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="20" selection-start="790" selection-end="790" vertical-scroll-proportion="0.37583894">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="17" selection-start="552" selection-end="552" vertical-scroll-proportion="0.393736">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="57" selection-start="1901" selection-end="1901" vertical-scroll-proportion="0.28193325">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/jurujuba.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="33" selection-start="747" selection-end="747" vertical-scroll-proportion="0.3364486">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/portfolio_2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="2" selection-start="536" selection-end="536" vertical-scroll-proportion="0.18327606">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="56" selection-start="2221" selection-end="2221" vertical-scroll-proportion="0.6096698">
+          <folding>
+            <element signature="e#2191#2208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/eventos.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="36" selection-start="533" selection-end="533" vertical-scroll-proportion="0.48598132">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/quem_somos.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="60" selection-start="2204" selection-end="2204" vertical-scroll-proportion="0.69158876">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/sacada_pro_futuro.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="4" selection-start="773" selection-end="773" vertical-scroll-proportion="0.37383178">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/caio_martins.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="6" selection-start="765" selection-end="765" vertical-scroll-proportion="0.5981308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/pro_cubango.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="760" selection-end="760" vertical-scroll-proportion="0.34696263">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/home_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="4" selection-start="257" selection-end="257" vertical-scroll-proportion="0.6263982">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/parcerias.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="20" selection-start="628" selection-end="628" vertical-scroll-proportion="-4.04">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/home/contato.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="52" selection-start="3252" selection-end="3252" vertical-scroll-proportion="0.79746836">
+          <folding>
+            <marker date="1393912097575" expanded="false" signature="615:633" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

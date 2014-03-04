@@ -32,6 +32,10 @@ class HomeController < ApplicationController
 
   end
 
+  def eventos
+
+  end
+
   def contato
 
   end
